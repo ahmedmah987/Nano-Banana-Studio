@@ -1,13 +1,10 @@
 # Nano Banana Studio 🍌🎨
+[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/azidan)
 
 A lightweight Gradio web UI to **enhance prompts**, **generate images**, **edit by text**, and perform **mask-guided inpaint** using Google's Gemini 2.5 Flash Image preview model.
 
 > 🔒 Security note: The app asks for your **Google API Key** at runtime and does **not** store it on disk or in the repository.
 >
-
-[![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/azidan)
-
-A lightweight Gradio web UI to **enhance prompts**, **generate images**, **edit by text**, and perform **mask-guided inpaint** using Google's Gemini 2.5 Flash Image preview model.
 
 
 ---
