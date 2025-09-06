@@ -483,8 +483,8 @@ def inpaint_images_with_mask(api_key: str,
         return [], f"API error: {e}"
 
 # ===================== Gradio UI =====================
-with gr.Blocks(title="Gemini 2.5 Flash Image – Prompt, Edit & Inpaint") as demo:
-    gr.Markdown("## Gemini 2.5 Flash Image – Prompt, Edit & Inpaint UI")
+with gr.Blocks(title="Nano Banana Studio 🍌🎨") as demo:
+    gr.Markdown("## Nano Banana Studio 🍌🎨 – Prompt, Edit & Inpaint UI")
     gr.Markdown("**Enter your API Key for the current session (not stored).**")
 
     # API Key (session-scoped)
@@ -576,3 +576,4 @@ with gr.Blocks(title="Gemini 2.5 Flash Image – Prompt, Edit & Inpaint") as dem
 if __name__ == "__main__":
     # Do NOT enable share=True for public tests with your real key.
     demo.queue().launch()
+
