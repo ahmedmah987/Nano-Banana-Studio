@@ -1,5 +1,7 @@
 # Nano Banana Studio 🍌🎨
 [![ko-fi](https://ko-fi.com/img/githubbutton_sm.svg)](https://ko-fi.com/azidan)
+[![Open in GitHub Codespaces](https://github.com/codespaces/badge.svg)](https://codespaces.new/ahmedmah987/Nano-Banana-Studio)
+[![Open in VS Code](https://img.shields.io/badge/Open%20in-VS%20Code-blue?logo=visualstudiocode)](https://vscode.dev/github/ahmedmah987/Nano-Banana-Studio)
 
 A lightweight Gradio web UI to **enhance prompts**, **generate images**, **edit by text**, and perform **mask-guided inpaint** using Google's Gemini 2.5 Flash Image preview model.
 
