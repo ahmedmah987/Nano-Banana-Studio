@@ -35,8 +35,8 @@ A lightweight Gradio web UI to **enhance prompts**, **generate images**, **edit 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<USERNAME>/nano-banana-studio.git
-cd nano-banana-studio
+git clone https://github.com/<USERNAME>/Nano-Banana-Studio.git
+cd Nano-Banana-Studio
 ```
 
 ### 2. (Recommended) Create a virtual environment
@@ -101,12 +101,17 @@ Open the local URL printed in your terminal (e.g. `http://127.0.0.1:7860`).
 ## 📁 Project Structure
 
 ```
-nano-banana-studio/
+Nano-Banana-Studio/
 ├─ app.py
 ├─ requirements.txt
 ├─ README.md
 ├─ LICENSE
-└─ .gitignore
+├─ .gitignore
+└─ docs/
+   ├─ screenshot-main.png
+   ├─ screenshot-enhance.png
+   ├─ screenshot-edit.png
+   └─ screenshot-inpaint.png
 ```
 
 ---
@@ -145,3 +150,19 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 - **`API error` or empty responses**  
   - Double-check your API key and quota.
   - Simplify the prompt to avoid restricted content.
+
+---
+
+## 📸 Screenshots
+
+### Main Interface
+![Main UI](docs/screenshot-main.png)
+
+### Prompt Enhancement
+![Prompt Enhancement](docs/screenshot-enhance.png)
+
+### Edit by Text
+![Edit Example](docs/screenshot-edit.png)
+
+### Inpaint Example
+![Inpaint Example](docs/screenshot-inpaint.png)
