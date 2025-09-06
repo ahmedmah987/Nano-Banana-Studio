@@ -40,7 +40,7 @@ A lightweight Gradio web UI to **enhance prompts**, **generate images**, **edit 
 
 ### 1. Clone the repository
 ```bash
-git clone https://github.com/<USERNAME>/Nano-Banana-Studio.git
+git clone https://github.com/ahmedmah987/Nano-Banana-Studio.git
 cd Nano-Banana-Studio
 ```
 
